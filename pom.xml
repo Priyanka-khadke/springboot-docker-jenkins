@@ -49,7 +49,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>Springboot-docker-jenkins</finalName>
+		<finalName>springboot-docker-jenkins</finalName>
 	</build>
 
 </project>
